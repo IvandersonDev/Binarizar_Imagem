@@ -16,7 +16,6 @@ Para começar a usar este projeto localmente, siga estas etapas:
 git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 2. Compile o código-fonte.
-
 ```
 cd seu-repositorio
 javac Main/*.java
@@ -24,7 +23,6 @@ javac Main/*.java
 3. Execute o programa.
 ```
 java Main.Main
-
 ```
 
 ## Uso
